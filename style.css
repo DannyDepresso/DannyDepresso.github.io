@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300,800);
 
 body {
-  font-family: "Dancing Script", cursive;
   font-weight: 300;
   color: #fff;
   background: linear-gradient(to bottom right, #0087c5, rgb(255, 255, 255));
@@ -65,7 +64,6 @@ h1{
     overflow: hidden;
 }
 #welcome{
-    font-family: "Dancing Script", cursive;
     font-size: 40px;
     text-align: center;
     width: 25vw;
@@ -81,7 +79,6 @@ h1{
     -webkit-text-stroke: none;
 }
 #title{
-  font-family: "Dancing Script", cursive;
     font-size: 50px;
     text-align: center;
     width: 50%;
@@ -125,7 +122,6 @@ h1{
     display: block;
     width: 215px;
     padding: 10px 10px 10px 15px;
-    font-family: "Dancing Script", cursive;
     font-weight: 400;
     color: #377D6A;
     border: 0;
@@ -227,7 +223,6 @@ h1{
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
   margin: 1vh 1vw;
-  font-family: "Dancing Script", cursive;
   position: relative;
   display: inline-block;
 
